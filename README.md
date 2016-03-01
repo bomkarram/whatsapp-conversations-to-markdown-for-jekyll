@@ -10,3 +10,6 @@
 ### Requirements:
 * Python 3+
 * Conversations text file
+
+### License:
+The tool for non-commercial uses.
